@@ -1,16 +1,13 @@
-### Hi there 👋
+## Mateus do Nascimento Furtado
+Opa, tudo bem? Tenho 22 anos e atualmente sou estudande de Back-End.
 
-<!--
-**mateusfurtado/mateusfurtado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Me encontre:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/mateus-nascimento-4a4950200/)
 
-Here are some ideas to get you started:
+### GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateusfurtado&show_icons=true&theme=radical&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusfurtado&layout=compact&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Desafios dos Projetos DIO
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mateusfurtado&repo=dio-lab-open-source&theme=radical)](https://github.com/mateusfurtado/dio-lab-open-source)
