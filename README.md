@@ -1,5 +1,5 @@
 ## Mateus do Nascimento Furtado
-Opa, tudo bem? Tenho 22 anos e atualmente sou estudande de Back-End.
+Estudante de Cibersegurança.
 
 ### Me encontre:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/mateus-nascimento-4a4950200/)
