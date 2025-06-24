@@ -7,6 +7,10 @@ Oi, sou o Mateus e tenho 24 anos. Atualmente sou estudante do curso Progamador W
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateusfurtado&show_icons=true&theme=radical&hide_title=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusfurtado&layout=compact&theme=radical)
 
+## Programador Web - Senac 2025
+
+[![Readme Card](https://github.com/mateusfurtado/senac-2025)
+
 ## Desafios dos Projetos DIO
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mateusfurtado&repo=dio-lab-open-source&theme=radical)](https://github.com/mateusfurtado/dio-lab-open-source)
