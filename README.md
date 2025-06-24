@@ -1,5 +1,5 @@
 ## Mateus do Nascimento Furtado
-Oi, sou o Mateus e tenho 24 anos. Atualmente sou estudante do curso Progamador Web pelo o Senac, também sou aluno do Pentest do Zero ao profissional da Solyd, e a Formação Pentest Profissional da Desec. Buscando entrar na área de cibersegurança, estou visando esse dois certficados.
+Oi, sou o Mateus e tenho 24 anos. Atualmente sou estudante do curso Progamador Web pelo Senac, também sou aluno do curso Pentest do Zero ao profissional da Solyd, e a Formação Pentest Profissional da Desec.
 ### Me encontre:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/mateus-nascimento-4a4950200/)
 
