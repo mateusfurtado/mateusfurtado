@@ -9,7 +9,7 @@ Oi, sou o Mateus e tenho 24 anos. Atualmente sou estudante do curso Progamador W
 
 ## Programador Web - Senac 2025
 
-[![Readme Card](https://github.com/mateusfurtado/senac-2025)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mateusfurtado&repo=programador-web-senac2025&theme=radical)](https://github.com/mateusfurtado/senac-2025)
 
 ## Desafios dos Projetos DIO
 
